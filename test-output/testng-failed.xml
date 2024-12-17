@@ -6,7 +6,7 @@
       <class name="automation_practice.My_test_case_automation_practice">
         <methods>
           <include name="MySetup"/>
-          <include name="Select_roll"/>
+          <include name="confirmbtn"/>
         </methods>
       </class> <!-- automation_practice.My_test_case_automation_practice -->
     </classes>
